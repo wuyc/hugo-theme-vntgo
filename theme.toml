@@ -1,0 +1,9 @@
+name = "VntGo"
+description = "Simple Blog."
+tags = ["simple"]
+features = ["simple"]
+min_version = "0.10"
+
+[author]
+  name = "Vincent"
+  homepage = "https://github.com/xwyc"

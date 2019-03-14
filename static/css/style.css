@@ -1,0 +1,48 @@
+body {
+    background-color: #a7c4bb;
+    font-family: Sans-serif;
+    padding: 4px;
+}
+
+header nav {
+    margin-bottom: 10px;
+    box-shadow: 0 1px 2px 0 rgba(168, 182, 191, 0.6);
+    border-radius: 4px;
+}
+
+.navbar-brand {
+    font-size: 32px;
+    font-style: italic;
+}
+
+.list-group-item {
+    font-size: 20px;
+}
+
+.content .blog-post {
+    background: #f8f9fa;
+}
+
+.blog-post {
+    border-radius: 4px;
+    background: white;
+    padding: 20px;
+}
+
+.blog-post-head {
+    border-bottom: 2px LightGrey solid;
+    text-align: center;
+    padding: 10px;
+}
+
+.blog-post-content {
+    padding: 24px 10px 20px 10px;
+}
+
+article {
+	font-size: 18px;
+}
+
+pre {
+	border-radius: 4px;
+}
