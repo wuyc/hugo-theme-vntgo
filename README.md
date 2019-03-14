@@ -1,7 +1,7 @@
 # VntGo
-A super simple theme for Hugo.
+> A super simple theme for Hugo.
 
-## screenshot
+## Screenshot
 ![Index Screenshot](screenshot/index.png)
 
 ## Installation
@@ -18,8 +18,8 @@ theme = "vntgo"
 ```
 
 ## Acknowledgements
-- [bootstrap](https://github.com/twbs/bootstrap) Lightweight, robust, elegant syntax highlighting.
-- [prism](https://github.com/PrismJS/prism) Lightweight, robust, elegant syntax highlighting.
+- [Bootstrap](https://github.com/twbs/bootstrap) Lightweight, robust, elegant syntax highlighting.
+- [Prism](https://github.com/PrismJS/prism) Lightweight, robust, elegant syntax highlighting.
 
 ## License
-Released under the [MIT](https://github.com/xwyc/hugo-theme-vntgo/blob/master/LICENSE) License.
+Released under the [MIT License](https://github.com/xwyc/hugo-theme-vntgo/blob/master/LICENSE).
